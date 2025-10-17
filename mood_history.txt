@@ -1,6 +1,0 @@
-[Sat Oct 11 18:57:14 2025] Input: "happy" | Detected Emotion: energetic
-[Sat Oct 11 18:58:03 2025] Input: "sad" | Detected Emotion: sad
-[Sat Oct 11 18:58:34 2025] Input: "sad" | Detected Emotion: sad
-[Wed Oct 15 09:01:14 2025] Input: "sad" | Detected Emotion: sad
-[Wed Oct 15 09:18:35 2025] Input: "sad" | Detected Emotion: sad
-[Thu Oct 16 18:55:23 2025] Input: "sad" | Detected Emotion: sad
