@@ -1,0 +1,1 @@
+cout<<"Total marks: "<<total<<endl;
